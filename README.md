@@ -5,3 +5,5 @@ Este proyecto es un currículum hecho solo con HTML, que representa cómo me ima
 🔧 Tecnologías usadas:
 - HTML5 (sin CSS ni JavaScript)
 
+📁 Archivo principal:
+- mi_cv_futuro.html
