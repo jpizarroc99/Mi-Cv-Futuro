@@ -7,7 +7,7 @@ Incluye información ficticia sobre mi experiencia profesional, habilidades téc
 Este currículum está creado exclusivamente con HTML, sin estilos CSS ni JavaScript, y refleja mi visión y metas a largo plazo en el mundo del desarrollo web. 💻✨
 
 ## 🛠️ Tecnologías usadas
-- HTML5
+- HTML
 
 ## 📁 Archivo principal
 Puedes ver mi archivo HTML aquí: [mi_cv_futuro.html](https://jpizarroc99.github.io/Mi-Cv-Futuro/)
